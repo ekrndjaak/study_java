@@ -1,3 +1,5 @@
+package java_study;
+
 import java.util.Scanner;
 
 public class Input02{

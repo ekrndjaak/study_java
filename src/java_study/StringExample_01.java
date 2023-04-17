@@ -1,3 +1,5 @@
+package java_study;
+
 public class StringExample_01 {
     public static void main(String[] args) {
         String me = "살은 내가 쪄요.";

@@ -1,3 +1,5 @@
+package java_study;
+
 public class BlooleanExample {
     public static void main(String[] args) {
         boolean trueValue = true;

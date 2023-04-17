@@ -1,3 +1,5 @@
+package java_study;
+
 public class StringExample_02 {
     public static void main(String[] args) {
         String birthday = "2000/04/30";

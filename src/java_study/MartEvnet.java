@@ -1,3 +1,5 @@
+package java_study;
+
 public class MartEvnet {
     public static void main(String[] args) {
         int ratio;

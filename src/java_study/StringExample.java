@@ -1,3 +1,5 @@
+package java_study;
+
 public class StringExample {
     public static void main(String[] args) {
         System.out.println("나는 문자열"); //("문자열")

@@ -1,3 +1,5 @@
+package java_study;
+
 public class Number {
     public static void main(String[] args) {
         byte byteint = 10;
