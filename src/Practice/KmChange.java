@@ -9,7 +9,7 @@ public class KmChange {
 
         System.out.println("거리를 입력하세요 :");
         int i = Integer.parseInt(sc.nextLine());
-        int k = 0;
+        int k;
         if (i < 1000) {
             System.out.println(i + "m");
         } else {
