@@ -4,7 +4,7 @@
 
 1280000
  */
-package Practice;
+package java_study.Practice;
 
 import java.util.Scanner;
 

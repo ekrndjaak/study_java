@@ -3,7 +3,7 @@
         신장: 1.78m
         남자인가요? true
         */
-package Practice;
+package java_study.Practice;
 
 public class profile {
     public static void main(String[] args){

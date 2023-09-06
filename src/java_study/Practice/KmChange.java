@@ -1,7 +1,6 @@
 // meter를 입력받아 km 와 m 로 출력하는 프로그램을 작성하시오.
-package Practice;
+package java_study.Practice;
 import java.util.Scanner;
-import java.awt.datatransfer.StringSelection;
 
 public class KmChange {
     public static void main(String[]args) {

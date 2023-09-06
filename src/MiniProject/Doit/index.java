@@ -70,7 +70,7 @@ public class index {
                     deleteTask(scanner);
                     break;
                 case 4:
-                    showTasks();
+                    showTasks(scanner);
                     break;
                 case 5:
                     System.out.println("프로그램을 종료합니다.");
@@ -85,9 +85,22 @@ public class index {
     }
     private static void addTask(Scanner scanner) {
         System.out.println("제목 :");
-        String title = scanner.nextLine();
+        String title = scanner.next();
         System.out.println("내용 :");
-        String description = scanner.nextLine();
+        String description = scanner.next();
 
+    }
+    private  static void editTask(Scanner scanner){
+        System.out.println("변경하고싶은거 : ");
+        String title = scanner.nextLine();
+        System.out.println("변경할 내용 :");
+        String description = scanner.nextLine();
+    }
+    private static void deleteTask(Scanner scanner){
+        System.out.println("지우고싶은 것 : ");
+        String title = scanner.nextLine();
+    }
+    private static void showTasks(Scanner scanner){
+        System.out.println("idk");
     }
 }

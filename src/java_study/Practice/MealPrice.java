@@ -9,7 +9,7 @@
         ===================
         총합: 213000
         */
-package Practice;
+package java_study.Practice;
 
 public class MealPrice {
     public static void main(String[] args) {

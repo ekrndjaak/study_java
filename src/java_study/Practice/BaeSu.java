@@ -1,4 +1,4 @@
-package Practice;
+package java_study.Practice;
 
 public class BaeSu {
     public static void main(String[]args) {

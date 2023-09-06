@@ -1,7 +1,7 @@
         /* 품명: 한우 꽃등심     가격:   112500
         품명: 참치 선물팩     가격:    25500
         품명: 맥스봉 한팩     가격:      500*/
-package Practice;
+package java_study.Practice;
 
 public class Shopping {
     public static void main(String[] args) {

@@ -7,7 +7,7 @@
 
 58유로 + 32달러 = 109268 원
  */
-package Practice;
+package java_study.Practice;
 
 import java.util.Scanner;
 
