@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class ArrayListEx {
     public static void main(String[] args) {
         ArrayList<String> a = new ArrayList<String>();
-
+        System.out.println();
         Scanner scanner = new Scanner(System.in);
         for (int i = 0; i < 4; i++) {
             System.out.println("이름을 입력하세요>>");
