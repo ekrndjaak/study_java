@@ -2,13 +2,12 @@ package BAEKJOON;
 
 import java.util.Scanner;
 
-public class m1000m {
+public class m10926 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int a,b;
-        a = sc.nextInt();
-        b = sc.nextInt();
 
-        System.out.println(a + b);
+        String st = sc.nextLine();
+
+        System.out.println(st + "??!");
     }
 }
